@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a31945-e894-4af8-9fdb-62b3667432c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/spiders/czcfang.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2112">
+              <caret line="98" column="83" selection-start-line="98" selection-start-column="83" selection-end-line="98" selection-end-column="83" />
+              <folding>
+                <element signature="e#1670#1703#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/spiders/DoubanMovieTop250Spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+              <folding>
+                <element signature="e#1686#1719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="76" selection-start-line="76" selection-end-line="80" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1716">
+              <caret line="78" selection-start-line="78" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>美国队长</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myscrapy/scrapy-tutorial" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage/thread_crawl_work_main.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage/thread_crawl_work_tools.py" />
+        <option value="$PROJECT_DIR$/scrapy/scrapyDemo01/demo01.py" />
+        <option value="$PROJECT_DIR$/scrapy/scrapydemo01/scrapydemo01/items.py" />
+        <option value="$PROJECT_DIR$/scrapy/scrapydemo01/scrapydemo01/spiders/DoubanMovieTop250Spider.py" />
+        <option value="$PROJECT_DIR$/myscrapy/scrapydemo01/scrapydemo01/spiders/DoubanMovieTop250Spider.py" />
+        <option value="$PROJECT_DIR$/myscrapy/scrapydemo01/spiders/DoubanMovieTop250Spider.py" />
+        <option value="$PROJECT_DIR$/douban_movie_top250/douban_movie_top250/spiders/DoubanMovieTop250Spider.py" />
+        <option value="$PROJECT_DIR$/myscrapy/scrapyspider/scrapyspider/spiders/BlogSpider.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie_top250/douban.csv" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie_top250/douban01.csv" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie/douban_movie/spiders/DoubanMovieSpider.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/items.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/spiders/DoubanMovieTop250Spider.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/run.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/settings.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie/douban_movie/items.py" />
+        <option value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/run.py" />
+        <option value="$PROJECT_DIR$/test/te.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie/douban_movie/run.py" />
+        <option value="$PROJECT_DIR$/myscrapy/douban_movie/douban_movie/spiders/DoubanMovie.py" />
+        <option value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/company_51job.csv" />
+        <option value="$PROJECT_DIR$/test/test01.py" />
+        <option value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/settings.py" />
+        <option value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/pipelines.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_urls.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_ui_urls.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_java_urls.py" />
+        <option value="$PROJECT_DIR$/myscrapy/baipin_java/baipin_java/items.py" />
+        <option value="$PROJECT_DIR$/myscrapy/baipin_java/baipin_java/spiders/baipin_java.py" />
+        <option value="$PROJECT_DIR$/crawl_work/craw_provinceAndCity/Spiders.py" />
+        <option value="$PROJECT_DIR$/crawl_work/craw_provinceAndCity/downloading.py" />
+        <option value="$PROJECT_DIR$/crawl_work/craw_provinceAndCity/provinceAndCity.py" />
+        <option value="$PROJECT_DIR$/crawl_work/craw_provinceAndCity/Scheduler.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/thread_crawl_work_main.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_make_urls.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/thread_crawl_work_tools.py" />
+        <option value="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage_sub/thread_crawl_work_tools.py" />
+        <option value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop/thread_crawl_work_main.py" />
+        <option value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop/tools.py" />
+        <option value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop/nationwide_make_urls.py" />
+        <option value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop/main.py" />
+        <option value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/items.py" />
+        <option value="$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01/crwal_img_mzitu_tools.py" />
+        <option value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/spiders/company_51job.py" />
+        <option value="$PROJECT_DIR$/myscrapy/czcfang/czcfang/items.py" />
+        <option value="$PROJECT_DIR$/myscrapy/czcfang/czcfang/spiders/czcfang.py" />
+        <option value="$PROJECT_DIR$/myscrapy/czcfang/czcfang/pipelines.py" />
+        <option value="$PROJECT_DIR$/myscrapy/czcfang/czcfang/settings.py" />
+        <option value="$PROJECT_DIR$/myscrapy/czcfang/czcfang/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="652" />
+    <option name="height" value="384" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="myscrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonProjects" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonProjects" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\PythonProjects\PythonProjects\crawl_work\crawl_190605_51jop" />
+      <recent name="D:\PythonProjects\PythonProjects\crawl_work\thread_crawl_work06_51jop_ui_sub" />
+      <recent name="D:\PythonProjects\PythonProjects\crawl_work" />
+      <recent name="D:\PythonProjects\PythonProjects\myscrapy\company_51job\company_51job\spiders" />
+      <recent name="D:\PythonProjects\PythonProjects\myscrapy\douban_movie\douban_movie\spiders" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProjects\PythonProjects\myscrapy" />
+      <recent name="D:\PythonProjects\001" />
+      <recent name="D:\PythonProjects\crawl_img01" />
+      <recent name="D:\PythonProjects\crawl_img" />
+      <recent name="D:\PythonProjects\thread_crawl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawl_img_mzitu_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01/crawl_img_mzitu_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nationwide_make_urls (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl_work/crawl_190605_51jop/nationwide_make_urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myscrapy/company_51job/company_51job" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myscrapy/company_51job/company_51job/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myscrapy/czcfang/czcfang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myscrapy/czcfang/czcfang/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.run (2)" />
+      <item itemvalue="Python.nationwide_make_urls (1)" />
+      <item itemvalue="Python.crawl_img_mzitu_main" />
+      <item itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.crawl_img_mzitu_main" />
+        <item itemvalue="Python.run (2)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.nationwide_make_urls (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a31945-e894-4af8-9fdb-62b3667432c9" name="Default Changelist" comment="" />
+      <created>1556357118746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556357118746</updated>
+      <workItem from="1556357123702" duration="29000" />
+      <workItem from="1556357219088" duration="650000" />
+      <workItem from="1556357934287" duration="213000" />
+      <workItem from="1556370889125" duration="6286000" />
+      <workItem from="1556416120430" duration="3154000" />
+      <workItem from="1556527971961" duration="3127000" />
+      <workItem from="1556536442713" duration="4127000" />
+      <workItem from="1556550241844" duration="1586000" />
+      <workItem from="1556595005398" duration="6862000" />
+      <workItem from="1556950363765" duration="5995000" />
+      <workItem from="1556975730576" duration="8952000" />
+      <workItem from="1557020316114" duration="15084000" />
+      <workItem from="1557048038895" duration="633000" />
+      <workItem from="1557110295019" duration="22348000" />
+      <workItem from="1557147669597" duration="1617000" />
+      <workItem from="1557193398436" duration="11161000" />
+      <workItem from="1557236544271" duration="590000" />
+      <workItem from="1557237439797" duration="370000" />
+      <workItem from="1557285812302" duration="597000" />
+      <workItem from="1557289604332" duration="704000" />
+      <workItem from="1557294245961" duration="13349000" />
+      <workItem from="1557322394989" duration="10843000" />
+      <workItem from="1557362463509" duration="8696000" />
+      <workItem from="1557408161536" duration="8181000" />
+      <workItem from="1557418256751" duration="715000" />
+      <workItem from="1557448962058" duration="6499000" />
+      <workItem from="1557466908638" duration="14958000" />
+      <workItem from="1557487113825" duration="5101000" />
+      <workItem from="1557492435990" duration="3159000" />
+      <workItem from="1557539946427" duration="13992000" />
+      <workItem from="1557557475973" duration="4072000" />
+      <workItem from="1557573910628" duration="1201000" />
+      <workItem from="1557587322410" duration="331000" />
+      <workItem from="1557627811105" duration="12304000" />
+      <workItem from="1557642685540" duration="1279000" />
+      <workItem from="1557737310435" duration="3128000" />
+      <workItem from="1557755467414" duration="694000" />
+      <workItem from="1557835100224" duration="1563000" />
+      <workItem from="1557850354048" duration="253000" />
+      <workItem from="1557880553570" duration="4388000" />
+      <workItem from="1557885003371" duration="617000" />
+      <workItem from="1557885652678" duration="2425000" />
+      <workItem from="1557888121030" duration="1899000" />
+      <workItem from="1557890122162" duration="990000" />
+      <workItem from="1557891226009" duration="1262000" />
+      <workItem from="1557893133373" duration="210000" />
+      <workItem from="1557893390881" duration="8751000" />
+      <workItem from="1557906757527" duration="14689000" />
+      <workItem from="1557925417531" duration="213000" />
+      <workItem from="1557926528049" duration="6210000" />
+      <workItem from="1557967030475" duration="18840000" />
+      <workItem from="1558082098945" duration="1253000" />
+      <workItem from="1558145381391" duration="2706000" />
+      <workItem from="1558156352516" duration="375000" />
+      <workItem from="1558168117494" duration="479000" />
+      <workItem from="1558169044428" duration="61000" />
+      <workItem from="1558171253566" duration="1428000" />
+      <workItem from="1558181860645" duration="2992000" />
+      <workItem from="1558185079997" duration="3296000" />
+      <workItem from="1558242152105" duration="589000" />
+      <workItem from="1558252549837" duration="630000" />
+      <workItem from="1559029004225" duration="2205000" />
+      <workItem from="1559724172173" duration="5442000" />
+      <workItem from="1559742710326" duration="73000" />
+      <workItem from="1559742912489" duration="4736000" />
+      <workItem from="1559781633160" duration="2222000" />
+      <workItem from="1560127999451" duration="1796000" />
+      <workItem from="1560345768511" duration="1933000" />
+      <workItem from="1560387167282" duration="2469000" />
+      <workItem from="1560475536659" duration="429000" />
+      <workItem from="1560479544700" duration="594000" />
+      <workItem from="1560499687629" duration="1011000" />
+      <workItem from="1561952751540" duration="2565000" />
+      <workItem from="1561957187905" duration="2519000" />
+      <workItem from="1561986708335" duration="2437000" />
+      <workItem from="1562027996321" duration="1410000" />
+      <workItem from="1562080302860" duration="636000" />
+      <workItem from="1563173176806" duration="4792000" />
+      <workItem from="1563178053917" duration="2409000" />
+      <workItem from="1563180594014" duration="824000" />
+    </task>
+    <task id="LOCAL-00001" summary="爬虫1.2版本">
+      <created>1557044530004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557044530004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="爬虫1.2版本 + 爬取招聘网站信息1.2">
+      <created>1557139151659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557139151659</updated>
+    </task>
+    <task id="LOCAL-00003" summary="爬虫1.2版本 + 爬取招聘网站信息1.2">
+      <created>1557139208865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557139208865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="整理">
+      <created>1557145552955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557145552955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试python链接hadoop的hdfs系统">
+      <created>1557236608662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557236608662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试python链接hadoop的hdfs系统">
+      <created>1557236918400</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557236918400</updated>
+    </task>
+    <task id="LOCAL-00007" summary="福利：爬取mzitu网站的图片">
+      <created>1557642755677</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557642755677</updated>
+    </task>
+    <task id="LOCAL-00008" summary="福利：爬取mzitu网站的图片">
+      <created>1557755529751</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557755529751</updated>
+    </task>
+    <task id="LOCAL-00009" summary="scrapy框架练习01">
+      <created>1557901375968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557901375968</updated>
+    </task>
+    <task id="LOCAL-00010" summary="scrapy框架练习01">
+      <created>1557901898848</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557901898848</updated>
+    </task>
+    <task id="LOCAL-00011" summary="scrapy框架练习-ajax异步请求">
+      <created>1557910984092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557910984092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="爬取国家区划代码">
+      <created>1558156628214</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558156628214</updated>
+    </task>
+    <task id="LOCAL-00013" summary="优化代码">
+      <created>1559737515614</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559737515614</updated>
+    </task>
+    <task id="LOCAL-00014" summary="爬取c房网，金牌经纪人 信息">
+      <created>1563179792775</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563179792775</updated>
+    </task>
+    <task id="LOCAL-00015" summary="爬取c房网，金牌经纪人 信息 二次提交">
+      <created>1563179984044</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563179984044</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="318995000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48681056" visible="true" weight="0.2484127" />
+      <window_info id="Structure" order="1" sideWeight="0.51318944" side_tool="true" weight="0.20952381" />
+      <window_info id="Favorites" order="2" sideWeight="0.5104712" side_tool="true" weight="0.2611111" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.55846155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35846153" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3276923" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49444443" weight="0.3276923" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50555557" side_tool="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.45384616" />
+      <window_info anchor="bottom" x="26" y="330" width="1260" height="310" id="Python Console" order="12" sideWeight="0.49920633" weight="0.5476923" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" visible="true" weight="0.3276923" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32936507" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32936507" />
+      <window_info anchor="right" x="0" y="0" width="280" height="584" id="Documentation" order="5" side_tool="true" weight="0.32936507" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49081364" visible="true" weight="0.26031747" />
+      <window_info id="Structure" order="1" sideWeight="0.51082253" side_tool="true" weight="0.2611111" />
+      <window_info id="Favorites" order="2" sideWeight="0.5104712" side_tool="true" weight="0.2611111" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" visible="true" weight="0.55846155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20461538" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3276923" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4952381" weight="0.3276923" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50079364" side_tool="true" weight="0.47692308" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.19538462" />
+      <window_info anchor="bottom" x="26" y="330" width="1260" height="310" id="Python Console" order="12" sideWeight="0.49920633" weight="0.46615386" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32936507" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32936507" />
+      <window_info anchor="right" x="0" y="0" width="280" height="584" id="Documentation" order="5" side_tool="true" weight="0.32936507" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Python-100-Days" />
+    </ignored-roots>
+    <MESSAGE value="爬虫1.2版本" />
+    <MESSAGE value="爬虫1.2版本 + 爬取招聘网站信息1.2" />
+    <MESSAGE value="整理" />
+    <MESSAGE value="测试python链接hadoop的hdfs系统" />
+    <MESSAGE value="福利：爬取mzitu网站的图片" />
+    <MESSAGE value="scrapy框架练习01" />
+    <MESSAGE value="scrapy框架练习-ajax异步请求" />
+    <MESSAGE value="爬取国家区划代码" />
+    <MESSAGE value="优化代码" />
+    <MESSAGE value="爬取c房网，金牌经纪人 信息" />
+    <MESSAGE value="爬取c房网，金牌经纪人 信息 二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬取c房网，金牌经纪人 信息 二次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage_sub/thread_crawl_work_tools.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/pipelines.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_img.coverage" NAME="thread_crawl_img Coverage Results" MODIFIED="1556976899351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dem03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img_main03.coverage" NAME="crawl_img_main03 Coverage Results" MODIFIED="1557415354657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1557910355090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myscrapy/douban_movie/douban_movie" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_web.coverage" NAME="crawl_web Coverage Results" MODIFIED="1556602341551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dem03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test_hdfs01.coverage" NAME="test_hdfs01 Coverage Results" MODIFIED="1557225060792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img02.coverage" NAME="crawl_img02 Coverage Results" MODIFIED="1557325918269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1557638937175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_work_main__1_.coverage" NAME="thread_crawl_work_main (1) Coverage Results" MODIFIED="1557211208265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work02" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_work_main.coverage" NAME="thread_crawl_work_main Coverage Results" MODIFIED="1558190191339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub" />
+    <SUITE FILE_PATH="coverage/PythonProjects$run.coverage" NAME="run Coverage Results" MODIFIED="1563181413811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myscrapy/czcfang/czcfang" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1557490248523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work06_spage" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_tool.coverage" NAME="thread_crawl_tool Coverage Results" MODIFIED="1556977653477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_crawl" />
+    <SUITE FILE_PATH="coverage/PythonProjects$MysqlDemo01.coverage" NAME="MysqlDemo01 Coverage Results" MODIFIED="1557132448216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_tool.coverage" NAME="crawl_tool Coverage Results" MODIFIED="1556597141422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dem03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img_tools02.coverage" NAME="crawl_img_tools02 Coverage Results" MODIFIED="1557323386689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test_hdfs.coverage" NAME="test_hdfs Coverage Results" MODIFIED="1557228267522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1557479751506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work06_spage" />
+    <SUITE FILE_PATH="coverage/PythonProjects$1_.coverage" NAME="1_子网页爬虫 Coverage Results" MODIFIED="1556597176655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img.coverage" NAME="crawl_img Coverage Results" MODIFIED="1557398027740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_main__1_.coverage" NAME="thread_crawl_main (1) Coverage Results" MODIFIED="1557044146651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_crawl02" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test_hdfs02.coverage" NAME="test_hdfs02 Coverage Results" MODIFIED="1557227989622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img_main04.coverage" NAME="crawl_img_main04 Coverage Results" MODIFIED="1557459374495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test_impala.coverage" NAME="test_impala Coverage Results" MODIFIED="1557226268554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img01.coverage" NAME="crawl_img01 Coverage Results" MODIFIED="1557324632821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img02__2_.coverage" NAME="crawl_img02 (2) Coverage Results" MODIFIED="1557393221364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$filedemo01.coverage" NAME="filedemo01 Coverage Results" MODIFIED="1556540447617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_craw_img001.coverage" NAME="thread_craw_img001 Coverage Results" MODIFIED="1557027814922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_crawl" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_work_tools.coverage" NAME="thread_crawl_work_tools Coverage Results" MODIFIED="1557119802154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_main.coverage" NAME="thread_crawl_main Coverage Results" MODIFIED="1557322657922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img/thread_crawl02" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_tool_copy.coverage" NAME="crawl_tool_copy Coverage Results" MODIFIED="1556419817892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dem03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1560475567796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myscrapy/company_51job/company_51job" />
+    <SUITE FILE_PATH="coverage/PythonProjects$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1557560324507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/test01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img_main02.coverage" NAME="crawl_img_main02 Coverage Results" MODIFIED="1557412212166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img_tools03.coverage" NAME="crawl_img_tools03 Coverage Results" MODIFIED="1557413154392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img04" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_work_main__2_.coverage" NAME="thread_crawl_work_main (2) Coverage Results" MODIFIED="1557212584309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$2_.coverage" NAME="2_多网页爬虫 Coverage Results" MODIFIED="1556358062890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$MysqlDemo01__1_.coverage" NAME="MysqlDemo01 (1) Coverage Results" MODIFIED="1557134083630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work02" />
+    <SUITE FILE_PATH="coverage/PythonProjects$ThreadDemo01.coverage" NAME="ThreadDemo01 Coverage Results" MODIFIED="1556602488185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo01" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img02__1_.coverage" NAME="crawl_img02 (1) Coverage Results" MODIFIED="1557327552098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img02" />
+    <SUITE FILE_PATH="coverage/PythonProjects$thread_crawl_img__1_.coverage" NAME="thread_crawl_img (1) Coverage Results" MODIFIED="1556982071246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_crawl" />
+    <SUITE FILE_PATH="coverage/PythonProjects$nationwide_make_urls__1_.coverage" NAME="nationwide_make_urls (1) Coverage Results" MODIFIED="1559745998044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/crawl_190605_51jop" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1557628098666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_work/thread_crawl_work06_spage" />
+    <SUITE FILE_PATH="coverage/PythonProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1557393141823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_test/cral_img03" />
+    <SUITE FILE_PATH="coverage/PythonProjects$crawl_img_mzitu_main.coverage" NAME="crawl_img_mzitu_main Coverage Results" MODIFIED="1557642301625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_ui_urls.py" />
+    <entry file="file://$PROJECT_DIR$/myscrapy/baipin_java/baipin_java/spiders/baipin_javaSpider" />
+    <entry file="file://$PROJECT_DIR$/myscrapy/baipin_java/baipin_java/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/baipin_java/baipin_java/spiders/baipin_java.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/craw_provinceAndCity/provinceAndCity.py" />
+    <entry file="file://$PROJECT_DIR$/crawl_work/craw_provinceAndCity/downloading.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/craw_provinceAndCity/Scheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="107" selection-start-line="13" selection-start-column="107" selection-end-line="13" selection-end-column="107" />
+          <folding>
+            <element signature="e#93#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/craw_provinceAndCity/Spiders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage/thread_crawl_work_main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/test01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/test02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/test03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_java_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/thread_crawl_work_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#46#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/thread_crawl_work_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="143" column="73" selection-start-line="143" selection-start-column="60" selection-end-line="143" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_ui_sub/nationwide_make_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage_sub/nationwide_urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage_sub/thread_crawl_work_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#46#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/thread_crawl_work06_51jop_spage_sub/thread_crawl_work_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="145" column="67" selection-start-line="145" selection-start-column="67" selection-end-line="145" selection-end-column="67" />
+          <folding>
+            <element signature="e#46#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/crawl_190605_51jop/test01.py" />
+    <entry file="file://$PROJECT_DIR$/crawl_work/crawl_190605_51jop/nationwide_java_urls.py" />
+    <entry file="file://$PROJECT_DIR$/crawl_work/crawl_190605_51jop/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <element signature="e#46#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/crawl_190605_51jop/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding>
+            <element signature="e#46#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01/crawl_img_mzitu_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_img_final/crawl_img_mzitu_01/crwal_img_mzitu_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_work/crawl_190605_51jop/nationwide_make_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/company_51job.csv" />
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/run.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1105">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/spiders/company_51job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="141" column="20" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="20" />
+          <folding>
+            <element signature="e#1732#1765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/czcfang.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-3762" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/spiders/czcfang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="98" column="83" selection-start-line="98" selection-start-column="83" selection-end-line="98" selection-end-column="83" />
+          <folding>
+            <element signature="e#1670#1703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/douban_movie_top250/douban_movie_top250/spiders/DoubanMovieTop250Spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+          <folding>
+            <element signature="e#1686#1719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/company_51job/company_51job/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" selection-start-line="76" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" selection-start-line="78" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscrapy/czcfang/czcfang/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
